@@ -13,6 +13,7 @@ namespace party_game
         {
             // Creates an instance of a speech config with specified subscription key and service region.
             var config = SpeechConfig.FromSubscription("YourSubscriptionKey", "YourServiceRegion");
+            # var config = SpeechConfig.FromSubscription("87b20fb26e8242de913d680b5213e9b4", "northeurope");
 
             // Creates a speech recognizer.
             using (var recognizer = new SpeechRecognizer(config))
