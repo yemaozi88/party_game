@@ -12,7 +12,7 @@ namespace party_game
         public static async Task RecognizeSpeechAsync()
         {
             // Creates an instance of a speech config with specified subscription key and service region.
-            var config = SpeechConfig.FromSubscription("87b20fb26e8242de913d680b5213e9b4", "northeurope");
+            var config = SpeechConfig.FromSubscription("YourSubscriptionKey", "YourServiceRegion");
 
             // Creates a speech recognizer.
             using (var recognizer = new SpeechRecognizer(config))
