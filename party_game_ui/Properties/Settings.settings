@@ -3,40 +3,40 @@
   <Profiles />
   <Settings>
     <Setting Name="SubscriptionKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)">87b20fb26e8242de913d680b5213e9b4</Value>
+      <Value Profile="(Default)">3663e4c867074c88945b64374b7b8c8a</Value>
     </Setting>
     <Setting Name="Region" Type="System.String" Scope="User">
-      <Value Profile="(Default)">northeurope</Value>
+      <Value Profile="(Default)">westus</Value>
     </Setting>
     <Setting Name="SpeechRecognitionLanguage" Type="System.String" Scope="User">
       <Value Profile="(Default)">en-US</Value>
     </Setting>
     <Setting Name="Tile1Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Elephant</Value>
+      <Value Profile="(Default)">Spain</Value>
     </Setting>
     <Setting Name="Tile2Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Piano</Value>
+      <Value Profile="(Default)">Welsh</Value>
     </Setting>
     <Setting Name="Tile3Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Carrot</Value>
+      <Value Profile="(Default)">Papua New Guinea</Value>
     </Setting>
     <Setting Name="Tile4Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Japan</Value>
+      <Value Profile="(Default)">Polish</Value>
     </Setting>
     <Setting Name="Tile5Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Spider</Value>
+      <Value Profile="(Default)">Swahili</Value>
     </Setting>
     <Setting Name="Tile6Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Darts</Value>
+      <Value Profile="(Default)">Strange</Value>
     </Setting>
     <Setting Name="Tile7Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Sofa</Value>
+      <Value Profile="(Default)">Cape Breton</Value>
     </Setting>
     <Setting Name="Tile8Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">WC</Value>
+      <Value Profile="(Default)">French</Value>
     </Setting>
     <Setting Name="Tile9Word" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Cheese</Value>
+      <Value Profile="(Default)">Lithuanian</Value>
     </Setting>
   </Settings>
 </SettingsFile>

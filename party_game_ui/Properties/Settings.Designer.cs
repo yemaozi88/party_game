@@ -12,7 +12,7 @@ namespace party_game_ui.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.9.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.3.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("87b20fb26e8242de913d680b5213e9b4")]
+        [global::System.Configuration.DefaultSettingValueAttribute("3663e4c867074c88945b64374b7b8c8a")]
         public string SubscriptionKey {
             get {
                 return ((string)(this["SubscriptionKey"]));
@@ -37,7 +37,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("northeurope")]
+        [global::System.Configuration.DefaultSettingValueAttribute("westus")]
         public string Region {
             get {
                 return ((string)(this["Region"]));
@@ -61,7 +61,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Elephant")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Spain")]
         public string Tile1Word {
             get {
                 return ((string)(this["Tile1Word"]));
@@ -73,7 +73,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Piano")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Welsh")]
         public string Tile2Word {
             get {
                 return ((string)(this["Tile2Word"]));
@@ -85,7 +85,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Carrot")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Papua New Guinea")]
         public string Tile3Word {
             get {
                 return ((string)(this["Tile3Word"]));
@@ -97,7 +97,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Japan")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Polish")]
         public string Tile4Word {
             get {
                 return ((string)(this["Tile4Word"]));
@@ -109,7 +109,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Spider")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Swahili")]
         public string Tile5Word {
             get {
                 return ((string)(this["Tile5Word"]));
@@ -121,7 +121,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Darts")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Strange")]
         public string Tile6Word {
             get {
                 return ((string)(this["Tile6Word"]));
@@ -133,7 +133,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Sofa")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Cape Breton")]
         public string Tile7Word {
             get {
                 return ((string)(this["Tile7Word"]));
@@ -145,7 +145,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("WC")]
+        [global::System.Configuration.DefaultSettingValueAttribute("French")]
         public string Tile8Word {
             get {
                 return ((string)(this["Tile8Word"]));
@@ -157,7 +157,7 @@ namespace party_game_ui.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Cheese")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Lithuanian")]
         public string Tile9Word {
             get {
                 return ((string)(this["Tile9Word"]));
