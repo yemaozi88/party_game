@@ -10,14 +10,14 @@ Please see the instruction of the [official site](https://docs.microsoft.com/en-
 - Visual Studio (This app is tested on Visual Studio Community 2017).
 - Windows 10.
 
-# How to install.
+# How to install
 1. Clone the repository.
 1. In party_game_ui > App.config, replace 'YourSubscriptionKey' and 'YourRegion' with yours, and set TileXword.
 1. Place your favorite sound and pictures in party_game_ui > Resources. 
 background.jpg is the picture which will be disclosed at the end. 
 1. Hit F5!
 
-# Please let us know your ideas.
+# Please let us know your ideas!
 This is a preliminary project.
 We plan to improve this app in future (some are written as ToDo). 
 If you have questions, opinions or ideas, please let us know (<428968@gmail.com>)! 
